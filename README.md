@@ -14,6 +14,7 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |5|Tipos de datos dinamicos en DART|5|Finalizada|
 |6|Tipos de datos mapas en DART|6|Finalizada|
 |7|Listas, Conjuntos e Iterables en DART|9|Finalizada|
+|8|Funciones y parametros en DART|11|Finalizada|
 ### LISTA DE HERRAMIENTAS
 ![DArt](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
