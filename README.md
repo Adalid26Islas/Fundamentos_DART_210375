@@ -20,6 +20,7 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |11|Setters y Getters en DART|9|✅Finalizada|
 |12|Aserciones en DART|3|✅Finalizada|
 |13|Clases abstractas en DART|11|✅Finalizada|
+|14|Mixins en DART|11|✅Finalizada|
 ### LISTA DE HERRAMIENTAS
 ![DArt](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
